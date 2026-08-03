@@ -5,10 +5,10 @@ usesFramework:
   - 1
 sdkInfo:
   minSdkVersion: 24
-  targetSdkVersion: 35
+  targetSdkVersion: 36
 versionInfo:
-  versionCode: 2025112551
-  versionName: 8.0.25112551
+  versionCode: 2026070351
+  versionName: 8.5.26070351
 resourcesInfo:
   packageId: 127
 doNotCompress:
