@@ -9,7 +9,7 @@ You can download the apks from [Releases](https://github.com/Linux4/GalaxyWearab
 * zenithmgr = Galaxy Buds2 Pro
 * neobeanmgr = Galaxy Buds Live
 * pearlmgr = Galaxy Buds FE
-* watchmanager = Samsung Gear (main application)
+* watchmanager = Galaxy Wearable (main application)
 * waterplugin = Galaxy Watch4
 * neatplugin = Galaxy Fit2
 * gearnplugin = Galaxy Watch3
@@ -18,3 +18,4 @@ You can download the apks from [Releases](https://github.com/Linux4/GalaxyWearab
 * gearpplugin = Watch Active
 * gearoplugin = Gear S Plugin
 * fit3plugin = Galaxy Fit3
+* watch6plugin = Galaxy Watch6
