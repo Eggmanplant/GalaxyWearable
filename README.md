@@ -19,3 +19,4 @@ You can download the apks from [Releases](https://github.com/Linux4/GalaxyWearab
 * gearoplugin = Gear S Plugin
 * fit3plugin = Galaxy Fit3
 * watch6plugin = Galaxy Watch6
+* accessory = Samsung Accessory Service
