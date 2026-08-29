@@ -31,6 +31,7 @@ jobs:
           - package: com.samsung.accessory.neobeanmgr
           - package: com.samsung.wearable.fit3plugin
           - package: com.samsung.accessory.zenithmgr
+          - package: com.samsung.wearable.watch6plugin
       max-parallel: 1
 
     steps:
